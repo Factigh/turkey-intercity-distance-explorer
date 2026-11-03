@@ -50,10 +50,7 @@ The three data files are marked *Copy to Output Directory: Preserve Newest* in `
 
 **Requirements:** Windows, Visual Studio 2019/2022 with the *.NET desktop development* workload (targets .NET Framework 4.7.2).
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/<your-username>/turkey-intercity-distance-explorer.git
-   ```
+1. Clone the repository (or download it as a ZIP with the green **Code** button on GitHub).
 2. Open `Project1.sln` in Visual Studio.
 3. Press **Ctrl + F5** (Run without debugging) to build and run.
 
